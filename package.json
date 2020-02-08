@@ -1,0 +1,26 @@
+{
+  "name": "ushio-win-server",
+  "version": "1.0.0",
+  "description": "server for ushio-win-systemd",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iotcat/ushio-win-server.git"
+  },
+  "keywords": [
+    "ushio"
+  ],
+  "author": "iotcat",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/iotcat/ushio-win-server/issues"
+  },
+  "homepage": "https://github.com/iotcat/ushio-win-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}
